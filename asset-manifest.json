@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learn-data-science/static/css/main.bcc6cafb.css",
+    "main.js": "/learn-data-science/static/js/main.69c6c0d7.js",
+    "static/js/453.1dbc29ff.chunk.js": "/learn-data-science/static/js/453.1dbc29ff.chunk.js",
+    "index.html": "/learn-data-science/index.html",
+    "main.bcc6cafb.css.map": "/learn-data-science/static/css/main.bcc6cafb.css.map",
+    "main.69c6c0d7.js.map": "/learn-data-science/static/js/main.69c6c0d7.js.map",
+    "453.1dbc29ff.chunk.js.map": "/learn-data-science/static/js/453.1dbc29ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc6cafb.css",
+    "static/js/main.69c6c0d7.js"
+  ]
+}
