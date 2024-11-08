@@ -19,7 +19,7 @@ const MedianVisualization = () => {
       {/* Main Container */}
       <div className="container mx-auto px-4">
         {/* Header */}
-        <div className="w-full mb-6">
+        <div className="w-full mb-4">
           <h2 className="text-3xl font-bold text-purple-600">Day 2: Understanding Median</h2>
           <p className="text-xl text-gray-500">Statistical Concepts Series</p>
         </div>
