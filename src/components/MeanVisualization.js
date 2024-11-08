@@ -14,7 +14,7 @@ const MeanVisualization = () => {
 
   return (
     <div className="p-4 bg-white rounded-lg shadow-lg">
-      <h2 className="text-xl font-bold mb-4 text-center text-blue-600">Understanding Mean (Average)</h2>
+      <h2 className="text-xl font-bold mb-4 text-center text-blue-600">Day 1: Understanding Mean (Average)</h2>
       <div className="mb-4 text-center">
         <p className="text-lg mb-2">🎯 Mean = Sum of all values ÷ Number of values</p>
         <p className="text-sm text-gray-600">Example: Student Test Scores (1-5)</p>
