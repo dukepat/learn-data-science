@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/learn-data-science/static/css/main.bcc6cafb.css",
-    "main.js": "/learn-data-science/static/js/main.49084d7f.js",
+    "main.css": "/learn-data-science/static/css/main.337f3ea5.css",
+    "main.js": "/learn-data-science/static/js/main.f726b4d9.js",
     "static/js/453.1dbc29ff.chunk.js": "/learn-data-science/static/js/453.1dbc29ff.chunk.js",
     "index.html": "/learn-data-science/index.html",
-    "main.bcc6cafb.css.map": "/learn-data-science/static/css/main.bcc6cafb.css.map",
-    "main.49084d7f.js.map": "/learn-data-science/static/js/main.49084d7f.js.map",
+    "main.337f3ea5.css.map": "/learn-data-science/static/css/main.337f3ea5.css.map",
+    "main.f726b4d9.js.map": "/learn-data-science/static/js/main.f726b4d9.js.map",
     "453.1dbc29ff.chunk.js.map": "/learn-data-science/static/js/453.1dbc29ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcc6cafb.css",
-    "static/js/main.49084d7f.js"
+    "static/css/main.337f3ea5.css",
+    "static/js/main.f726b4d9.js"
   ]
 }
