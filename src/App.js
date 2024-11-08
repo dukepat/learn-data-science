@@ -2,6 +2,7 @@
 import React from 'react';
 import MedianVisualization from './components/MedianVisualization';
 import MeanVisualization from './components/MeanVisualization';
+import ModeVisualization from './components/ModeVisualization';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <div className="space-y-8">
           <MeanVisualization />
           <MedianVisualization />
+          <ModeVisualization />
         </div>
       </div>
     </div>
